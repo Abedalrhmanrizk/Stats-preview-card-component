@@ -80,7 +80,7 @@ main {
   box-shadow: 0px 20px 20px -10px rgba(23, 25, 41, 0.203087);
   border-radius: 8px;
   display: grid;
-  grid-template-columns: 57rem 1fr;
+  grid-template-columns: 1fr 54rem;
   overflow: hidden;
   /* height: 446px; */
 }
@@ -112,11 +112,7 @@ main .main-parg {
 
 .counts {
   display: flex;
-  gap: 6rem;
-}
-
-.one {
-  margin-right: 0.3rem;
+  gap: 6.3rem;
 }
 
 h2 {
