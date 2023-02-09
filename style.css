@@ -87,7 +87,7 @@ main {
 
 .text-box {
   max-width: 570px;
-  padding: 6.7rem 9.5rem 5.9rem 7.2rem;
+  padding: 7.1rem 9.5rem 5.9rem 7.2rem;
   background-color: var(--card-background);
 }
 main h1 {
@@ -113,8 +113,6 @@ main .main-parg {
 .counts {
   display: flex;
   gap: 6rem;
-  justify-content: center;
-  align-items: center;
 }
 
 h3 {
